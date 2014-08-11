@@ -1,2 +1,2 @@
-bitbert.github.io
+http://bitbert.github.io
 =================
