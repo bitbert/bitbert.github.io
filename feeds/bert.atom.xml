@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bitbert</title><link href="/" rel="alternate"></link><link href="/feeds%5Cbert.atom.xml" rel="self"></link><id>/</id><updated>2014-08-11T11:27:00+02:00</updated><entry><title>Hello World</title><link href="/my-super-post.html" rel="alternate"></link><updated>2014-08-11T11:27:00+02:00</updated><author><name>bert</name></author><id>tag:,2014-08-11:my-super-post.html</id><summary type="html">&lt;p&gt;Hello everybody, &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bitbert</title><link href="http://bitbert.github.io/" rel="alternate"></link><link href="http://bitbert.github.io/feeds%5Cbert.atom.xml" rel="self"></link><id>http://bitbert.github.io/</id><updated>2014-08-11T11:27:00+08:00</updated><entry><title>Hello World</title><link href="http://bitbert.github.io/my-first-post.html" rel="alternate"></link><updated>2014-08-11T11:27:00+08:00</updated><author><name>bert</name></author><id>tag:bitbert.github.io,2014-08-11:my-first-post.html</id><summary type="html">&lt;p&gt;Hello everybody, &lt;/p&gt;
 &lt;p&gt;Wish you a bright future, and have a nice day!&lt;/p&gt;
-&lt;p&gt;Yours,
+&lt;p&gt;yours,
 bert&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
