@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds%5Cbitbert.atom.xml" rel="self"></link><id>/</id><updated>2014-08-11T22:27:00Z</updated><entry><title>The Zen of Python</title><link href="/the-zen-of-python.html" rel="alternate"></link><updated>2014-08-11T22:27:00Z</updated><author><name>bitbert</name></author><id>tag:,2014-08-11:the-zen-of-python.html</id><summary type="html">&lt;p&gt;Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!&lt;/p&gt;</summary><category term="python"></category></entry></feed>
